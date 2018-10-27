@@ -1,2 +1,0 @@
-# calculator1
-exercise ..
